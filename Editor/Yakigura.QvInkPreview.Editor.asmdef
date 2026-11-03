@@ -1,0 +1,14 @@
+{
+  "name": "Yakigura.QvInkPreview.Editor",
+  "rootNamespace": "",
+  "references": ["Yakigura.QvInkPreview.Runtime", "UdonSharp.Runtime", "UdonSharp.Editor", "VRC.Udon", "VRC.Udon.Editor", "QvPen"],
+  "includePlatforms": ["Editor"],
+  "excludePlatforms": [],
+  "allowUnsafeCode": false,
+  "overrideReferences": false,
+  "precompiledReferences": [],
+  "autoReferenced": true,
+  "defineConstraints": [],
+  "versionDefines": [],
+  "noEngineReferences": false
+}

@@ -1,0 +1,14 @@
+{
+  "name": "Yakigura.QvInkPreview.Runtime",
+  "rootNamespace": "",
+  "references": ["UdonSharp.Runtime", "VRC.Udon", "QvPen"],
+  "includePlatforms": [],
+  "excludePlatforms": [],
+  "allowUnsafeCode": false,
+  "overrideReferences": false,
+  "precompiledReferences": [],
+  "autoReferenced": true,
+  "defineConstraints": [],
+  "versionDefines": [],
+  "noEngineReferences": false
+}
