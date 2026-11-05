@@ -1,5 +1,9 @@
 # Changelog
 
+## [0.1.0-beta.6] — ベータ版
+
+- QvPalette 0.1.0-beta.6 と版を揃えました（変更なし）。
+
 ## [0.1.0-beta.5] — ベータ版
 
 - QvPalette 0.1.0-beta.5 と版を揃えました（変更なし）。

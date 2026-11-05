@@ -1,7 +1,7 @@
 {
   "name": "com.yakigura.qvinkpreview",
   "displayName": "QvInkPreview",
-  "version": "0.1.0-beta.5",
+  "version": "0.1.0-beta.6",
   "unity": "2022.3",
   "description": "QvPen の各ペンの後ろに、現在のインクと同じマテリアル・色・太さの短い線を表示する VPM パッケージ。",
   "author": {
@@ -16,7 +16,7 @@
   "documentationUrl": "https://github.com/Yakigura/QvInkPreview#readme",
   "changelogUrl": "https://github.com/Yakigura/QvInkPreview/blob/main/CHANGELOG.md",
   "licensesUrl": "https://github.com/Yakigura/QvInkPreview/blob/main/LICENSE",
-  "url": "https://github.com/Yakigura/QvInkPreview/releases/download/0.1.0-beta.5/com.yakigura.qvinkpreview-0.1.0-beta.5.zip",
+  "url": "https://github.com/Yakigura/QvInkPreview/releases/download/0.1.0-beta.6/com.yakigura.qvinkpreview-0.1.0-beta.6.zip",
   "keywords": [
     "VRChat",
     "UdonSharp",
